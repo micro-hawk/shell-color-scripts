@@ -56,3 +56,8 @@ For even more fun, add the following line to your .bashrc or .zshrc and you will
 
 	### RANDOM COLOR SCRIPT ###
 	colorscript random
+# For shortcut just clone my bashrc and uncomment the last line.
+
+# Thanks
+   ###### $->MICROHAWK
+        
